@@ -1,4 +1,6 @@
-Taverna Commandline product
-===========================
+# Moved to Apache Taverna
 
-[![Build Status](https://travis-ci.org/taverna/taverna-commandline-product.svg?branch=devel)](https://travis-ci.org/taverna/taverna-commandline-product)
+This source code has moved to [Apache Taverna](http://taverna.incubator.apache.org/) 
+as part of the repository [incubator-taverna-commandline](https://github.com/apache/incubator-taverna-commandline)
+
+This repository is kept for historical reasons - see the tags and branches.
